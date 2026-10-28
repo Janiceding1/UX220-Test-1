@@ -4,8 +4,8 @@ Use `Use This Template/Open in a Codespace` to answer the 3 questions in the pro
 
 When you are done use the `view/command palette/Zip` Project to make a project.zip file and add it to the dropbox. 
 
-[Q1](Q1.html) Q1.Html
+[Q1](Q1.html) Question 1 
 
-[Q2](Q2.html) Q2.Html
+[Q2](Q2.html) Question 2
 
-[Q3](Q3.html) Q3.Html
+[Q3](Q3.html) Question 3
